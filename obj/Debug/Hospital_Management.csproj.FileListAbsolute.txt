@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Hospital_Management\bin\Debug\Hospital_Management.exe.config
+C:\Users\User\source\repos\Hospital_Management\bin\Debug\Hospital_Management.exe
+C:\Users\User\source\repos\Hospital_Management\bin\Debug\Hospital_Management.pdb
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.login.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.reg.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.exe
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.pdb
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.home.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.Find_Doctor.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.Book_Appointment.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.common.resources
+C:\Users\User\source\repos\Hospital_Management\obj\Debug\Hospital_Management.viewapp.resources
